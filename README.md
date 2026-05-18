@@ -1,6 +1,6 @@
 # Bachelor's Project: Vegetation History of the Dommel Valley
 
-This repository contains the bachelor thesis and analyses for a paleoecological study on the vegetation dynamics of the Dommel Valley conducted at the University of Amsterdam, focused on pollen analysis (microscopically identified by myself) and multiproxy reconstruction, including charcoal and phytolith analyses conducted by other students.
+This repository contains my bachelor thesis and and data analyses for a paleoecological study on the vegetation dynamics of the Dommel Valley conducted at the University of Amsterdam, focused on pollen analysis (microscopically identified by myself) and multiproxy reconstruction, including charcoal and phytolith analyses conducted by other students.
 
 ## Files
 
